@@ -1,15 +1,11 @@
-Experiment No. 2
+# Title: Size of String and Positive Negative Integer
 
-Aim:
-
+# Aim:
 To study and implement C++ program structure and understand the use of various data types.
 
-Tools Required:
+# Tools Required: Visual Studio Code (VS Code)
 
-Visual Studio Code (VS Code)
-
-Theory:
-
+#Theory:
 In C++, data types are used to define the type of data a variable can hold. The fundamental data types include:
 
 1.int – integer values (e.g., 1, -5)
@@ -42,8 +38,7 @@ Example code includes:
 
 2.Printing the values and their sizes
 
-Conclusion:
-
+# Conclusion:
 Through this experiment:
 
 You learned the structure of a C++ program, including header files and the main function.
